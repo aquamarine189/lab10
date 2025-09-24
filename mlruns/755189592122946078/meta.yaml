@@ -1,6 +1,0 @@
-artifact_location: file:///C:/mlflow_env/mlruns/755189592122946078
-creation_time: 1758643495359
-experiment_id: '755189592122946078'
-last_update_time: 1758643495359
-lifecycle_stage: active
-name: Wine Quality - Model Training
